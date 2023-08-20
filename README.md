@@ -1,5 +1,6 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DFE1E5&background=00A1E0CE&width=435&lines=Hi%2C+I'm+Hitori+Hikari+%F0%9F%91%8B)](https://git.io/typing-svg) 
- </h1>
+<p align="center"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DFE1E5&background=00A1E0CE&width=435&lines=Hi%2C+I'm+Hitori+Hikari+%F0%9F%91%8B)](https://git.io/typing-svg) 
+</p>
 
 <h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
 </br>
