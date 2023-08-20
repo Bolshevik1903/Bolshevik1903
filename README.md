@@ -5,7 +5,7 @@
 <h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
 </br>
 
-## About Me!
+##🔎 About Me
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
@@ -18,5 +18,7 @@
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vite,java,spring,py,flutter,cpp,vscode)](https://skillicons.dev)
 
-## 🛠️ My Stats
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bolshevik1903&show_icons=true&theme=radical)
+
+## 📈 My Stats
+![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bolshevik1903&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolshevik1903&show&hide_progress=true&theme=dracula)
