@@ -16,4 +16,4 @@
 </br></br></br></br></br></br></br></br>
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,py,cpp,vscode,vite,react,angular,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vite,java,spring,py,flutter,cpp,vscode)](https://skillicons.dev)
