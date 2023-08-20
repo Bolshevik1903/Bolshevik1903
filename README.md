@@ -12,10 +12,12 @@
 </br>
 </br>
 </br>
+
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at []().
+
 </br>
 </br>
 </br>
