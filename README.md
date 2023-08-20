@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Hitori!</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Hitori+Hikari+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 **About Me!**
 
