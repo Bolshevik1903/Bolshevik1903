@@ -21,6 +21,6 @@
 
 ## 📈 My Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Bolshevik1903&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Bolshevik1903&show_icons=true&count_private=true&theme=tokyonight&hide=issues&line_height=32">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Bolshevik1903&">
 </p>
