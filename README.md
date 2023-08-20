@@ -17,3 +17,6 @@
 
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vite,java,spring,py,flutter,cpp,vscode)](https://skillicons.dev)
+
+## 🛠️ My Stats
+![Hitori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bolshevik1903&show_icons=true&theme=radical)
