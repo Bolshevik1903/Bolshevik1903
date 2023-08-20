@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=Hi%2C+I'm+Hitori+Hikari;Welcome+to+my+profile" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=Hi%2C+I'm+Vladimir+Stalin;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
@@ -19,4 +19,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vite,java,spring,py,flutter,cpp,vscode)](https://skillicons.dev)
 
 ## 🛠️ My Stats
-![Hitori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bolshevik1903&show_icons=true&theme=radical)
+![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bolshevik1903&show_icons=true&theme=radical)
