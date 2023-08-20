@@ -13,3 +13,5 @@
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at []().
+
+## 🛠️ My Skills
