@@ -7,10 +7,4 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at []().
 
-<br />
-<br />
-
-
- 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
