@@ -8,14 +8,14 @@
 ## About Me!
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
+</br>
+</br>
+</br>
+</br>
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at []().
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
