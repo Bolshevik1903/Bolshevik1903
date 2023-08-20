@@ -21,3 +21,4 @@
 
 ## 📈 My Stats
 ![Vladimir's github stats](https://github-readme-stats.vercel.app/api?username=Bolshevik1903&hide=contribs,prs&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolshevik1903&layout=compact&theme=tokyonight)](https://github.com/Bolshevik1903/github-readme-stats)
