@@ -7,9 +7,6 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at []().
 
-
-
-
 <br />
 <br />
 
